@@ -1,7 +1,9 @@
+import { ShopProducts } from "../../components/rootcomponents/ShopProducts";
+
 export const Shop = () =>{
     return(
         <>
-            <p>Shop pages</p>
+            <ShopProducts/>
         </>
     );
 }
